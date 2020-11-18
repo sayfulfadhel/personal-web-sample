@@ -23,7 +23,6 @@
         "@fortawesome/fontawesome-free": "^5.15.1",
         "bootstrap": "^4.5.3",
         "jquery": "^2.1.3",
-        "popper.js": "^1.16.1",
-        "turbolinks": "^5.2.0"
+        "popper.js": "^1.16.1"
     }
 }

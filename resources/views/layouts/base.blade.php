@@ -1,9 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
     <head>
         @include('components.meta')
         @include('components.favicon')
         @include('components.styles')
+        <script src="/js/modernizr.custom.js"></script>
     </head>
     <body class="page">
         <div class="lm-animated-bg"></div>
