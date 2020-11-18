@@ -2,15 +2,16 @@
     <div class="footer-social">
         <ul class="footer-social-links">
             <li>
-                <a href="#" target="_blank" rel="noreferrer noopener">Twitter</a>
+                <a href="#" target="_blank" rel="noreferrer noopener"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
             </li>
-
             <li>
-                <a href="#" target="_blank" rel="noreferrer noopener">Github</a>
+                <a href="#" target="_blank" rel="noreferrer noopener"><i class="fab fa-github" aria-hidden="true"></i></a>
             </li>
-
             <li>
-                <a href="#" target="_blank" rel="noreferrer noopener">Instagram</a>
+                <a href="#" target="_blank" rel="noreferrer noopener"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+            </li>
+            <li>
+                <a href="#" target="_blank" rel="noreferrer noopener"><i class="fab fa-instagram" aria-hidden="true"></i></a>
             </li>
         </ul>
     </div>

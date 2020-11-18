@@ -46,45 +46,27 @@
                             <div class="block-title">
                                 <h2>How Can I Help You?</h2>
                             </div>
-                            <form id="contact_form" class="contact-form" action="contact_form/contact_form.php"
-                                method="post">
-                                <div class="messages"></div>
+                            <form id="contact_form" class="contact-form">
                                 <div class="controls two-columns">
                                     <div class="fields clearfix">
                                         <div class="left-column">
                                             <div class="form-group form-group-with-icon">
-                                                <input id="form_name" type="text" name="name" class="form-control"
-                                                    placeholder="Full Name" required="required"
-                                                    data-error="Name is required.">
-                                                <div class="form-control-border"></div>
-                                                <div class="help-block with-errors"></div>
+                                                <input id="form_name" type="text" name="name" class="form-control" placeholder="Full Name">
                                             </div>
                                             <div class="form-group form-group-with-icon">
-                                                <input id="form_email" type="email" name="email" class="form-control"
-                                                    placeholder="Email Address" required="required"
-                                                    data-error="Valid email is required.">
-                                                <div class="form-control-border"></div>
-                                                <div class="help-block with-errors"></div>
+                                                <input id="form_email" type="email" name="email" class="form-control" placeholder="Email Address">
                                             </div>
                                             <div class="form-group form-group-with-icon">
-                                                <input id="form_name" type="text" name="subject" class="form-control"
-                                                    placeholder="Subject" required="required"
-                                                    data-error="Subject is required.">
-                                                <div class="form-control-border"></div>
-                                                <div class="help-block with-errors"></div>
+                                                <input id="form_name" type="text" name="subject" class="form-control" placeholder="Subject">
                                             </div>
                                         </div>
                                         <div class="right-column">
                                             <div class="form-group form-group-with-icon">
-                                                <textarea id="form_message" name="message" class="form-control"
-                                                    placeholder="Message" rows="7" required="required"
-                                                    data-error="Please, leave me a message."></textarea>
-                                                <div class="form-control-border"></div>
-                                                <div class="help-block with-errors"></div>
+                                                <textarea id="form_message" name="message" class="form-control" placeholder="Message" rows="7"></textarea>
                                             </div>
                                         </div>
                                     </div>
-                                    <input type="submit" class="button btn-send disabled" value="Send message">
+                                    <input type="submit" class="btn btn-primary" value="Send message">
                                 </div>
                             </form>
                         </div>
