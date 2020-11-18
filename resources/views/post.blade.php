@@ -1,4 +1,4 @@
-@extends('layouts.base', ['title' => 'Blog'])
+@extends('layouts.base', ['title' => 'Post'])
 @section('content')
 <div id="main" class="site-main">
     <div id="main-content" class="single-page-content">
