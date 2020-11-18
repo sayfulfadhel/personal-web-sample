@@ -519,27 +519,15 @@ eval("// removed by extract-text-webpack-plugin//# sourceURL=[module]\n//# sourc
 
 /***/ }),
 
-/***/ "./resources/sass/main.sass":
-/*!**********************************!*\
-  !*** ./resources/sass/main.sass ***!
-  \**********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-eval("throw new Error(\"Module build failed (from ./node_modules/css-loader/index.js):\\nModuleBuildError: Module build failed (from ./node_modules/sass-loader/dist/cjs.js):\\nSassError: Expected tabs, was spaces.\\n    ╷\\n120 │     sans-serif\\r\\n    │ ^^^^\\n    ╵\\n  D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\resources\\\\sass\\\\main.sass 120:1  root stylesheet\\n    at D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\webpack\\\\lib\\\\NormalModule.js:316:20\\n    at D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:367:11\\n    at D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:233:18\\n    at context.callback (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:111:13)\\n    at D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass-loader\\\\dist\\\\index.js:73:7\\n    at Function.call$2 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:90547:16)\\n    at _render_closure1.call$2 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:79617:12)\\n    at _RootZone.runBinary$3$3 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:27035:18)\\n    at _FutureListener.handleError$1 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25563:19)\\n    at _Future__propagateToListeners_handleError.call$0 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25860:49)\\n    at Object._Future__propagateToListeners (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:4539:77)\\n    at _Future._completeError$2 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25693:9)\\n    at _AsyncAwaitCompleter.completeError$2 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25036:12)\\n    at Object._asyncRethrow (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:4288:17)\\n    at D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:13174:20\\n    at _wrapJsFunctionForAsync_closure.$protected (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:4313:15)\\n    at _wrapJsFunctionForAsync_closure.call$2 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25057:12)\\n    at _awaitOnObject_closure0.call$2 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25049:25)\\n    at _RootZone.runBinary$3$3 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:27035:18)\\n    at _FutureListener.handleError$1 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25563:19)\\n    at _Future__propagateToListeners_handleError.call$0 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25860:49)\\n    at Object._Future__propagateToListeners (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:4539:77)\\n    at _Future._completeError$2 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25693:9)\\n    at _Future__asyncCompleteError_closure.call$0 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:25782:18)\\n    at Object._microtaskLoop (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:4590:24)\\n    at StaticClosure._startMicrotaskLoop (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:4596:11)\\n    at _AsyncRun__scheduleImmediateJsOverride_internalCallback.call$0 (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:24947:21)\\n    at invokeClosure (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:1397:26)\\n    at Immediate.<anonymous> (D:\\\\7.4\\\\htdocs\\\\ndomalau.com\\\\node_modules\\\\sass\\\\sass.dart.js:1418:18)\\n    at processImmediate (internal/timers.js:456:21)\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL3Jlc291cmNlcy9zYXNzL21haW4uc2Fzcy5qcyIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./resources/sass/main.sass\n");
-
-/***/ }),
-
 /***/ 0:
-/*!****************************************************************************************!*\
-  !*** multi ./resources/js/app.js ./resources/sass/app.scss ./resources/sass/main.sass ***!
-  \****************************************************************************************/
+/*!*************************************************************!*\
+  !*** multi ./resources/js/app.js ./resources/sass/app.scss ***!
+  \*************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! D:\7.4\htdocs\ndomalau.com\resources\js\app.js */"./resources/js/app.js");
-__webpack_require__(/*! D:\7.4\htdocs\ndomalau.com\resources\sass\app.scss */"./resources/sass/app.scss");
-module.exports = __webpack_require__(/*! D:\7.4\htdocs\ndomalau.com\resources\sass\main.sass */"./resources/sass/main.sass");
+module.exports = __webpack_require__(/*! D:\7.4\htdocs\ndomalau.com\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
