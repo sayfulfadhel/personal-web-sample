@@ -92,18 +92,15 @@ q:before {
 }
 
 menu,
-ol,
 ul {
     margin: 1em 0
 }
 
 menu,
-ol,
 ul {
     padding: 0 0 0 40px
 }
 
-nav ol,
 nav ul {
     list-style: none;
     list-style-image: none
@@ -120,11 +117,6 @@ svg:not(:root) {
 
 figure {
     margin: 0
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0
 }
 
 .clearfix:after,
